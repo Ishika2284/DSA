@@ -1,0 +1,1 @@
+cout<<arr[i]<<" And "<<arr[j]<<" makes up the Odd pair sum "<<endl;
